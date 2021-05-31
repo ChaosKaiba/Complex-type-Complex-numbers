@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570900467 source:c:\users\my\desktop\school 2019\semester 2\programming 622\complex type, complex number\main.cpp
+	<iostream>
+	"complexNumber.h"
+
+1570899270 c:\users\my\desktop\school 2019\semester 2\programming 622\complex type, complex number\complextype.h
+	<iostream>
+
+1570900467 c:\users\my\desktop\school 2019\semester 2\programming 622\complex type, complex number\complexnumber.h
+	<iostream>
+
